@@ -6,6 +6,8 @@ Install VS Code
 
 Install Jupiter notebook
 
+Download required CSV file
+
 Install the necessary libraries required
 
 # Library/packages neccessary
@@ -29,7 +31,9 @@ $ pip install scikit-learn
 
 $ pip install datacamprojects
 
+# From where you can download the required CSV file(data set)
+
+just click on this link -> https://www.kaggle.com/datasets/antonioskokiantonis/newscsv and directly download the CSV file named 'news.csv' .
 # reference
 Have a look on this -> https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
 
-#
